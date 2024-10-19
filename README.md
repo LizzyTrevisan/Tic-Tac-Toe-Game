@@ -74,14 +74,14 @@ Thanks to the developer community for resources and support in learning C# and W
 
 
 
-## Demo Video
+## Demo Video for dowloading
 
 You can download the demo video from the repository [here](https://github.com/LizzyTrevisan/Tic-Tac-Toe-Game/raw/refs/heads/main/copy_348532C1-FDB5-4F41-9AF5-5280C8DD225B.mp4 ).
 
-## Demo GIF
+## Demo Video
 
-![Tic Tac Toe Demo](copy_348532C1-FDB5-4F41-9AF5-5280C8DD225B1-ezgif.com-video-to-gif-converter.gif
-)
+![Tic Tac Toe Demo]([copy_348532C1-FDB5-4F41-9AF5-5280C8DD225B1-ezgif.com-video-to-gif-converter.gif](https://youtube.com/shorts/QKeX93-3k9M?feature=share)
+
 
 
 
