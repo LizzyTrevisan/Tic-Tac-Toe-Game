@@ -66,10 +66,6 @@ Inspired by the classic game of Tic Tac Toe.
 Thanks to the developer community for resources and support in learning C# and Windows Forms.
 
 
-This Windows Forms application, developedin C#, provides an efficient and user-friendly way to manage a contact list. The application connects to a SQL Server database to perform CRUD (Create, Read, Update, Delete) operations on contact records. It uses ClosedXML for exporting contact lists to Excel. Key features include:
-
-
-
 ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Tic-Tac-Toe-Game/refs/heads/main/Screenshot%202024-10-19%20165025.png)
 
 ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Tic-Tac-Toe-Game/refs/heads/main/Screenshot%202024-10-19%20165055.png)
@@ -78,10 +74,10 @@ This Windows Forms application, developedin C#, provides an efficient and user-f
 
 
 
+## Demo Video
 
-<video width="320" height="240" controls>
-  <source src="video.mov" type="video/mp4">
-</video>
+You can download the demo video from the repository [here]( ).
+
 
 
 This Program was built using the [Visual Studio ] IDE (https://visualstudio.microsoft.com/vs/)
