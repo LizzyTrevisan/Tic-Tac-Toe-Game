@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Tic Tac Toe Game Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5268E886-BFB3-4167-BE0E-7B22E85498E5}|Tic Tac Toe Game Assignment.csproj|c:\\users\\leizi\\onedrive - bow valley college\\desktop\\tic tac toe game assignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5268E886-BFB3-4167-BE0E-7B22E85498E5}|Tic Tac Toe Game Assignment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5268E886-BFB3-4167-BE0E-7B22E85498E5}|Tic Tac Toe Game Assignment.csproj|c:\\users\\leizi\\onedrive - bow valley college\\desktop\\tic tac toe game assignment\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5268E886-BFB3-4167-BE0E-7B22E85498E5}|Tic Tac Toe Game Assignment.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5268E886-BFB3-4167-BE0E-7B22E85498E5}|Tic Tac Toe Game Assignment.csproj|C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Tic Tac Toe Game Assignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5268E886-BFB3-4167-BE0E-7B22E85498E5}|Tic Tac Toe Game Assignment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Tic Tac Toe Game Assignment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Tic Tac Toe Game Assignment\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:06:29.989Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Tic Tac Toe Game Assignment\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Tic Tac Toe Game Assignment\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAgwAABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:44:13.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Tic Tac Toe Game Assignment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Tic Tac Toe Game Assignment\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:53:21.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
