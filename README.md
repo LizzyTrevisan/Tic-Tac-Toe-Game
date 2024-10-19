@@ -80,7 +80,8 @@ You can download the demo video from the repository [here](https://github.com/Li
 
 ## Demo GIF
 
-![Tic Tac Toe Demo](copy_348532C1-FDB5-4F41-9AF5-5280C8DD225B.mp4)
+![Tic Tac Toe Demo](copy_348532C1-FDB5-4F41-9AF5-5280C8DD225B1-ezgif.com-video-to-gif-converter.gif
+)
 
 
 
