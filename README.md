@@ -17,7 +17,7 @@ Repository of Tic Tac Toe Simple console Game
 | Windows Froms | GUI |
 
 
-TIC TAC TOE
+##TIC TAC TOE
 
 ## Overview
 This Tic Tac Toe game is a classic implementation of the popular two-player game where players alternate turns placing either an "X" or an "O" on a 3x3 grid. The objective is to be the first player to align three of their marks vertically, horizontally, or diagonally. This project features a user-friendly interface built using Windows Forms, allowing for easy gameplay and interaction.
