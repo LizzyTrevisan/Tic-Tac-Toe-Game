@@ -79,7 +79,6 @@ Thanks to the developer community for resources and support in learning C# and W
 You can download the demo video from the repository [here](https://github.com/LizzyTrevisan/Tic-Tac-Toe-Game/raw/refs/heads/main/copy_348532C1-FDB5-4F41-9AF5-5280C8DD225B.mp4 ).
 
 ## Demo Video
-## Demo Video
 
 Watch the demo of the Tic Tac Toe game on [YouTube]( https://youtube.com/shorts/QKeX93-3k9M?feature=share).
 
@@ -92,7 +91,7 @@ This Program was built using the [Visual Studio ] IDE (https://visualstudio.micr
 
 ```
 ## References
-- Prodigy_SD_03 Task
+- Game Assignment - Bow Valley College
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leizianetrevisan.notion.site/Hello-I-m-Leiziane-3801bd1694ac46f8a28fddcca61fe34e/)
