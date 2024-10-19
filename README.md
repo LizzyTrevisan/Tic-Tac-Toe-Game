@@ -78,6 +78,10 @@ Thanks to the developer community for resources and support in learning C# and W
 
 You can download the demo video from the repository [here](https://github.com/LizzyTrevisan/Tic-Tac-Toe-Game/raw/refs/heads/main/copy_348532C1-FDB5-4F41-9AF5-5280C8DD225B.mp4 ).
 
+## Demo GIF
+
+![Tic Tac Toe Demo](copy_348532C1-FDB5-4F41-9AF5-5280C8DD225B.mp4)
+
 
 
 This Program was built using the [Visual Studio ] IDE (https://visualstudio.microsoft.com/vs/)
